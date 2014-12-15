@@ -1,0 +1,16 @@
+{
+    "require": {
+        "php": ">=5.3.3",
+        "phpunit/phpunit": "3.7.*",
+        "phpunit/dbunit": ">=1.2",
+        "facebook/webdriver": "dev-master"
+    },
+    "config": {
+        "bin-dir": "bin",
+        "preferred-install": "dist"
+    },
+    "autoload": {
+        "psr-4": { "Naldz\\GrooTest\\": "src/GrooTest/" }
+    },
+    "target-dir": "Naldz/GrooTest"
+}
