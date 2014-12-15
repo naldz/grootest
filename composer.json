@@ -10,7 +10,7 @@
         "preferred-install": "dist"
     },
     "autoload": {
-        "psr-4": { "Naldz\\GrooTest\\": "src/GrooTest/" }
+        "psr-4": { "Naldz\\GrooTest\\": "src/" }
     },
     "target-dir": "Naldz/GrooTest"
 }
