@@ -22,6 +22,5 @@
     },
     "autoload": {
         "psr-4": { "Naldz\\GrooTest\\": "src/" }
-    },
-    "target-dir": "Naldz/GrooTest"
+    }
 }
