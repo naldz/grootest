@@ -1,4 +1,15 @@
 {
+    "name": "naldz/GrooTest",
+    "type": "library",
+    "description": "GrooTest is collection of libraries primarily used for functional testing",
+    "keywords": ["functional testing"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reynaldo Castellano III",
+            "email": "reynaldocastellano@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "phpunit/phpunit": "3.7.*",
